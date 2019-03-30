@@ -19,3 +19,4 @@ echo 'runner Jest (https://facebook.github.io/jest/).'
 set -x
 npm test
 npm audit | tail -n 2
+
